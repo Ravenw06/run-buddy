@@ -1,3 +1,1 @@
-HI everyone
-
-How are you!?
+This is the first project that I am creating for run buddy
